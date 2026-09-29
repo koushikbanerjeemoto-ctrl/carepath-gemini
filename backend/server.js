@@ -83,7 +83,7 @@ const PORT = parseInt(
   10
 );
 
-const DEFAULT_MODEL = 'gemini-3.8-flash';
+const DEFAULT_MODEL = 'gemini-2.5-flash';
 
 // ============================================================
 // GEMINI CONFIGURATION
